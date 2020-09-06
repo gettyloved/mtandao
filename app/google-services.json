@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "817930387667",
+    "firebase_url": "https://mtandao-ead7a.firebaseio.com",
+    "project_id": "mtandao-ead7a",
+    "storage_bucket": "mtandao-ead7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817930387667:android:e1a167ce8849ebeee8d426",
+        "android_client_info": {
+          "package_name": "com.ciru.mtandao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "817930387667-2qbgsedgam86br2ct19hihlthf0kb7kv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ciru.mtandao",
+            "certificate_hash": "7f015ef158470ea3805001bd3a06a98601b38cec"
+          }
+        },
+        {
+          "client_id": "817930387667-5fgjedgcb5s3o7p02v8v992t8n2vda1v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAneBV181IJVFRTufVsd5V22koS5-s3aGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "817930387667-5fgjedgcb5s3o7p02v8v992t8n2vda1v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
